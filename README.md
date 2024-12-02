@@ -2,4 +2,5 @@
 
 A react charting library for simple isometric charts.
 
-![image](./images/example_chart_1.svg)
+![Alt text](./images/example_chart_1.svg)
+<img src="./images/example_chart_1.svg">
